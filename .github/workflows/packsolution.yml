@@ -3,7 +3,7 @@ on:
   push:
     paths:
       - contents/**
-  workflow-dispatch:
+  workflow_dispatch:
 
 jobs:
   build:
